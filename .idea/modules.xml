@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea_modules/saddle.iml" filepath="$PROJECT_DIR$/.idea_modules/saddle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/saddle-build.iml" filepath="$PROJECT_DIR$/.idea_modules/saddle-build.iml" />
     </modules>
   </component>
 </project>
