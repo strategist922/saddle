@@ -12,6 +12,7 @@ package com.iamtrask.saddle
 object main {
   def main(args: Array[String]) {
 
+    new SocketServer();
     println("hello world")
 
   }

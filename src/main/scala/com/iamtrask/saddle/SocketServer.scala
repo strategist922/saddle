@@ -12,7 +12,7 @@ import java.io._
 import java.net.{InetAddress,ServerSocket,Socket,SocketException}
 
 
-object SocketServer
+class SocketServer
 {
 
     val port = 6669
