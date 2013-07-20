@@ -1,0 +1,11 @@
+np name:my-project org:com.mypackage version:0.1.0-SNAPSHOT  
+exit;
+exit
+set name := "saddle"
+;
+set scalaVersion := 2.9.3
+set scalaVersion := "2.9.3"
+set version :="0.1.0"
+session save
+gen-idea
+exit
